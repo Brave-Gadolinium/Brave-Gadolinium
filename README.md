@@ -13,6 +13,8 @@
 ## 📸 Скриншоты  
 ![Скриншот](https://your-image-url.com/screenshot.png)  
 
+![GIF](https://media.giphy.com/media/YlSR3nTyPituJrNrxL/giphy.gif)
+
 ## 🚀 Установка  
 ```sh
 git clone https://github.com/yourrepo.git
